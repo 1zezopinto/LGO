@@ -294,6 +294,9 @@
   .mt-\[-px\] {
     margin-top: -px;
   }
+  .mt-\[190px\] {
+    margin-top: 190px;
+  }
   .mr-1 {
     margin-right: calc(var(--spacing) * 1);
   }
